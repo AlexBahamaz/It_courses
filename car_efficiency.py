@@ -1,3 +1,4 @@
+#Богомаз Алексей
 import random
 
 def car_efficiency(weight, power): #функция расчёта удельной мощности авто
