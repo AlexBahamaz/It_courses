@@ -1,3 +1,4 @@
+#Богомаз Алексей
 #вложенный метод создания функции
 def decrease_times_nested(times):
     def input_list():
