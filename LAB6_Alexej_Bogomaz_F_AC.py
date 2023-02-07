@@ -1,3 +1,5 @@
+#Алексей Богомаз
+#Расчёт F_AC
 import sympy as sp
 import numpy as np
 import math as mt
